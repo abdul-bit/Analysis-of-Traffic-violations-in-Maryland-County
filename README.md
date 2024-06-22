@@ -26,8 +26,7 @@ accident statistics in the future.
 - [Anirudh BS](https://github.com/anibs2171)
 
 
-## About
-The details about the research and inferences are in the Paper attached to the code.
+
 ## References
 
  -  **Ze-Hao Jiang, Xiao-Guang Yang, Tuo Sun,Tao Wang, Zheng Yang**
