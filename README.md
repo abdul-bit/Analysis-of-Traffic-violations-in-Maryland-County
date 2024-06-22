@@ -1,9 +1,9 @@
 
 # Analysis of Traffic violations in Maryland County
 
-**_Abstract-_** The number of fatalities,
+**_Abstract -_** The number of fatalities,
 property damages, personal injuries, and
-traffic violations has multiplication since the
+traffic violations has grown since the
 increase in the production of vehicles. Much
 chaos can be created with improper and
 irresponsible usage of vehicles. Along with
@@ -26,6 +26,21 @@ accident statistics in the future.
 - [Anirudh BS](https://github.com/anibs2171)
 
 
+## Problem Statement
+Using the traffic violations dataset with
+its available features, we will analyze the
+relationship between seat-belts and accidents,
+thus signifying the importance of seat belts, and
+also, explore which group of people are most
+responsible among others to wear seat belts.
+With the given data, we have analyzed the
+damage rates of various car makers. The
+advantage of analyzing such a statement gives a
+clear note on which model to choose from the
+right makers for personal transportation and
+various other transportation. Finally, we are
+predicting the violation statistics for the later
+months using forecasting.
 
 ## References
 
