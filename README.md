@@ -27,7 +27,7 @@ accident statistics in the future.
 
 
 ## About
-The details about the research and inferences are on the Paper.
+The details about the research and inferences are in the Paper attached to the code.
 ## References
 
  -  **Ze-Hao Jiang, Xiao-Guang Yang, Tuo Sun,Tao Wang, Zheng Yang**
